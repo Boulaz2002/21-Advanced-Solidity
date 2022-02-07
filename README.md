@@ -26,7 +26,7 @@ Pre-production testing of the crowdsale was perfomed by deploying the crowdsale 
 
 ### KaseiCoin token contract Compile & Deployment
 
-
+![alt text](Images/deployment.gif) 
 
 ### KaseiCoin crowdsale contract Compile & Deployment
 
@@ -35,19 +35,13 @@ Pre-production testing of the crowdsale was perfomed by deploying the crowdsale 
 
 ### KaseiCoin deployer contract Deployment
 
-![alt text](Images/application-image.png)
+![alt text](Images/KaseiCoin_deployment.png)
 
 ### KaseiCoin token mint
 
-![alt text](Images/application-image.png)
+![alt text](Images/KaseiCoin_Mint.png)
 
-### KaseiCoin token purchase
 
-![alt text](Images/application-image.png) 
-
-### Transaction Activity 
-
-![alt text](Images/application-image.png) 
 
 Contributing
 Pull requests are welcome. Please open an issue to discuss before executing any changes. Please make sure to update tests as needed.
