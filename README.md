@@ -31,27 +31,23 @@ Pre-production testing of the crowdsale was perfomed by deploying the crowdsale 
 ### KaseiCoin crowdsale contract Compile & Deployment
 
 
-![alt text](Evaluation Evidence/KaseiCoinCrowdsale_Compile.png) ![alt text](Evaluation Evidence/CrowdSale_Deploy.png)
+![alt text](Images/application-image.png) 
 
 ### KaseiCoin deployer contract Deployment
 
-![alt text](Evaluation Evidence/CrowdSaleDeployer_Deploy.png)
+![alt text](Images/application-image.png)
 
 ### KaseiCoin token mint
 
-![alt text](Evaluation Evidence/KaseiCoin_Supply.png)
+![alt text](Images/application-image.png)
 
 ### KaseiCoin token purchase
 
-![alt text](Evaluation Evidence/MARS_Token_Buy1.png) ![alt text](Evaluation Evidence/MARS_Token_Buy2.png) ![alt text](Evaluation Evidence/MARS_Token_Buy3.png) ![alt text](Evaluation Evidence/MARS_Token_Buy4.png)
+![alt text](Images/application-image.png) 
 
 ### Transaction Activity 
 
-![alt text](Evaluation Evidence/KaseiCoin_Transact.png) 
-
-![alt text](Evaluation Evidence/Three_Contract_Deploy.png) 
-
-![alt text](Evaluation Evidence/Ganache_Transactions.png)
+![alt text](Images/application-image.png) 
 
 Contributing
 Pull requests are welcome. Please open an issue to discuss before executing any changes. Please make sure to update tests as needed.
