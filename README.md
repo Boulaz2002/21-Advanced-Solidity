@@ -28,10 +28,6 @@ Pre-production testing of the crowdsale was perfomed by deploying the crowdsale 
 
 ![alt text](Images/deployment.gif) 
 
-### KaseiCoin crowdsale contract Compile & Deployment
-
-
-![alt text](Images/application-image.png) 
 
 ### KaseiCoin deployer contract Deployment
 
